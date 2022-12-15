@@ -34,6 +34,17 @@ const Header = () => {
               <Typography
                 variant="h6"
                 color="inherit"
+                component="a"
+                style={{ cursor: "pointer" }}
+                href="https://github.com/WeiYun0912/pokemon-scarlet-and-violet-ev-list"
+                target="_blank"
+              >
+                Github
+              </Typography>
+              <Typography variant="h6">&nbsp;/&nbsp;</Typography>
+              <Typography
+                variant="h6"
+                color="inherit"
                 component="div"
                 style={{ cursor: "pointer" }}
                 onClick={() => changeLanguage("zh")}
