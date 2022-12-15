@@ -9,3 +9,6 @@
 網址：https://weiyun0912.github.io/pokemon-scarlet-and-violet-ev-list/
 
 資料來源：https://www.serebii.net/scarletviolet/paldeapokedex.shtml
+
+# BUG
+搜尋欄目前有 BUG 正在修正
