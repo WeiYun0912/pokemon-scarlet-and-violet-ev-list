@@ -4,4 +4,11 @@
 
 先使用 puppeteer 將雪拉比網的資料爬取下來存成 csv 檔，再使用 react 去解析資料，並把資料製成網頁。
 
+有幫助到你的話，可以考慮給顆星星 😁。
+
+網址：https://weiyun0912.github.io/pokemon-scarlet-and-violet-ev-list/
+
 資料來源：https://www.serebii.net/scarletviolet/paldeapokedex.shtml
+
+# BUG
+搜尋欄目前有 BUG 正在修正
