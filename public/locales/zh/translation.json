@@ -1,0 +1,2819 @@
+{
+  "content": {
+    "Header": "寶可夢 朱/紫 努力值清單 (帕底亞地區)",
+    "TableHead1": "帕底亞圖鑑編號",
+    "TableHead2": "寶可夢圖片",
+    "TableHead3": "寶可夢名稱",
+    "TableHead4": "擊倒或捕捉後獲得的努力值",
+    "TableRowsPerPage": "一頁顯示的寶可夢數量:",
+    "EV1": "HP",
+    "EV2": "攻擊",
+    "EV3": "防禦",
+    "EV4": "特攻",
+    "EV5": "特防",
+    "EV6": "速度",
+    "Input": "輸入寶可夢名稱或圖鑑編號"
+  },
+  "pokemons": [
+    {
+      "paldeaId": 1,
+      "name": "策是一下",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/906.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 2,
+      "name": "Floragato",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/907.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 3,
+      "name": "Meowscarada",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/908.png",
+      "ev": "3 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 4,
+      "name": "Fuecoco",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/909.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 5,
+      "name": "Crocalor",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/910.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 6,
+      "name": "Skeledirge",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/911.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 7,
+      "name": "Quaxly",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/912.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 8,
+      "name": "Quaxwell",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/913.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 9,
+      "name": "Quaquaval",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/914.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 10,
+      "name": "Lechonk",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/915.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 11,
+      "name": "Oinkologne",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/916.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 12,
+      "name": "Tarountula",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/917.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 13,
+      "name": "Spidops",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/918.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 14,
+      "name": "Nymble",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/919.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 15,
+      "name": "Lokix",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/920.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 16,
+      "name": "Hoppip",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/187.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 17,
+      "name": "Skiploom",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/188.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 18,
+      "name": "Jumpluff",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/189.png",
+      "ev": "3 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 19,
+      "name": "Fletchling",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/661.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 20,
+      "name": "Fletchinder",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/662.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 21,
+      "name": "Talonflame",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/663.png",
+      "ev": "3 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 22,
+      "name": "Pawmi",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/921.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 23,
+      "name": "Pawmo",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/922.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 24,
+      "name": "Pawmot",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/923.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 25,
+      "name": "Houndour",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/228.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 26,
+      "name": "Houndoom",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/229.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 27,
+      "name": "Yungoos",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/734.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 28,
+      "name": "Gumshoos",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/735.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 29,
+      "name": "Skwovet",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/819.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 30,
+      "name": "Greedent",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/820.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 31,
+      "name": "Sunkern",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/191.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 32,
+      "name": "Sunflora",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/192.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 33,
+      "name": "Kricketot",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/401.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 34,
+      "name": "Kricketune",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/402.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 35,
+      "name": "Scatterbug",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/664.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 36,
+      "name": "Spewpa",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/665.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 37,
+      "name": "Vivillon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/666-f.png",
+      "ev": "1 HP Point(s)1 Speed Point(s)1 Sp. Attack Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 38,
+      "name": "Combee",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/415.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 39,
+      "name": "Vespiquen",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/416.png",
+      "ev": "1 Defense Point(s)1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 40,
+      "name": "Rookidee",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/821.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 41,
+      "name": "Corvisquire",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/822.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 42,
+      "name": "Corviknight",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/823.png",
+      "ev": "3 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 43,
+      "name": "Happiny",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/440.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 44,
+      "name": "Chansey",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/113.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 45,
+      "name": "Blissey",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/242.png",
+      "ev": "3 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 46,
+      "name": "Azurill",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/298.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 47,
+      "name": "Marill",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/183.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 48,
+      "name": "Azumarill",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/184.png",
+      "ev": "3 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 49,
+      "name": "Surskit",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/283.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 50,
+      "name": "Masquerain",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/284.png",
+      "ev": "1 Sp. Attack Point(s)1 Sp. Defense Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 51,
+      "name": "Buizel",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/418.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 52,
+      "name": "Floatzel",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/419.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 53,
+      "name": "Wooper",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/194-p.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 54,
+      "name": "Clodsire",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/980.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 55,
+      "name": "Psyduck",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/054.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 56,
+      "name": "Golduck",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/055.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 57,
+      "name": "Chewtle",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/833.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 58,
+      "name": "Drednaw",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/834.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 59,
+      "name": "Igglybuff",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/174.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 60,
+      "name": "Jigglypuff",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/039.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 61,
+      "name": "Wigglytuff",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/040.png",
+      "ev": "3 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 62,
+      "name": "Ralts",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/280.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 63,
+      "name": "Kirlia",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/281.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 64,
+      "name": "Gardevoir",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/282.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 65,
+      "name": "Gallade",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/475.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 66,
+      "name": "Drowzee",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/096.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 67,
+      "name": "Hypno",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/097.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 68,
+      "name": "Gastly",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/092.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 69,
+      "name": "Haunter",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/093.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 70,
+      "name": "Gengar",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/094.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 71,
+      "name": "Tandemaus",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/924.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 72,
+      "name": "Maushold",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/925.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 73,
+      "name": "Pichu",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/172.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 74,
+      "name": "Pikachu",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/025.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 75,
+      "name": "Raichu",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/026.png",
+      "ev": "3 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 76,
+      "name": "Fidough",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/926.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 77,
+      "name": "Dachsbun",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/927.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 78,
+      "name": "Slakoth",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/287.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 79,
+      "name": "Vigoroth",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/288.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 80,
+      "name": "Slaking",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/289.png",
+      "ev": "3 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 81,
+      "name": "Bounsweet",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/761.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 82,
+      "name": "Steenee",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/762.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 83,
+      "name": "Tsareena",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/763.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 84,
+      "name": "Smoliv",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/928.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 85,
+      "name": "Dolliv",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/929.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 86,
+      "name": "Arboliva",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/930.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 87,
+      "name": "Bonsly",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/438.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 88,
+      "name": "Sudowoodo",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/185.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 89,
+      "name": "Rockruff",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/744.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 90,
+      "name": "Lycanroc",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/745.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 91,
+      "name": "Rolycoly",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/837.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 92,
+      "name": "Carkol",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/838.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 93,
+      "name": "Coalossal",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/839.png",
+      "ev": "3 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 94,
+      "name": "Shinx",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/403.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 95,
+      "name": "Luxio",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/404.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 96,
+      "name": "Luxray",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/405.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 97,
+      "name": "Starly",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/396.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 98,
+      "name": "Staravia",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/397.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 99,
+      "name": "Staraptor",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/398.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 100,
+      "name": "Oricorio",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/741.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 101,
+      "name": "Mareep",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/179.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 102,
+      "name": "Flaaffy",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/180.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 103,
+      "name": "Ampharos",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/181.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 104,
+      "name": "Petilil",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/548.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 105,
+      "name": "Lilligant",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/549.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 106,
+      "name": "Shroomish",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/285.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 107,
+      "name": "Breloom",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/286.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 108,
+      "name": "Applin",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/840.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 109,
+      "name": "Flapple",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/841.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 110,
+      "name": "Appletun",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/842.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 111,
+      "name": "Spoink",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/325.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 112,
+      "name": "Grumpig",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/326.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 113,
+      "name": "Squawkabilly",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/931.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 114,
+      "name": "Misdreavus",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/200.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 115,
+      "name": "Mismagius",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/429.png",
+      "ev": "1 Sp. Attack Point(s)1 Sp. Defense Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 116,
+      "name": "Makuhita",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/296.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 117,
+      "name": "Hariyama",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/297.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 118,
+      "name": "Crabrawler",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/739.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 119,
+      "name": "Crabominable",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/740.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 120,
+      "name": "Salandit",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/757.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 121,
+      "name": "Salazzle",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/758.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 122,
+      "name": "Phanpy",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/231.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 123,
+      "name": "Donphan",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/232.png",
+      "ev": "1 Attack Point(s)1 Defense Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 124,
+      "name": "Cufant",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/878.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 125,
+      "name": "Copperajah",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/879.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 126,
+      "name": "Gible",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/443.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 127,
+      "name": "Gabite",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/444.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 128,
+      "name": "Garchomp",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/445.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 129,
+      "name": "Nacli",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/932.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 130,
+      "name": "Naclstack",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/933.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 131,
+      "name": "Garganacl",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/934.png",
+      "ev": "3 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 132,
+      "name": "Wingull",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/278.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 133,
+      "name": "Pelipper",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/279.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 134,
+      "name": "Magikarp",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/129.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 135,
+      "name": "Gyarados",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/130.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 136,
+      "name": "Arrokuda",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/846.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 137,
+      "name": "Barraskewda",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/847.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 138,
+      "name": "Basculin",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/550.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 139,
+      "name": "Gulpin",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/316.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 140,
+      "name": "Swalot",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/317.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 141,
+      "name": "Meowth",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/052.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 142,
+      "name": "Persian",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/053.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 143,
+      "name": "Drifloon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/425.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 144,
+      "name": "Drifblim",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/426.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 145,
+      "name": "Flabébé",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/669.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 146,
+      "name": "Floette",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/670.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 147,
+      "name": "Florges",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/671.png",
+      "ev": "3 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 148,
+      "name": "Diglett",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/050.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 149,
+      "name": "Dugtrio",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/051.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 150,
+      "name": "Torkoal",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/324.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 151,
+      "name": "Numel",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/322.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 152,
+      "name": "Camerupt",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/323.png",
+      "ev": "1 Attack Point(s)1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 153,
+      "name": "Bronzor",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/436.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 154,
+      "name": "Bronzong",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/437.png",
+      "ev": "1 Defense Point(s)1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 155,
+      "name": "Axew",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/610.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 156,
+      "name": "Fraxure",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/611.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 157,
+      "name": "Haxorus",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/612.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 158,
+      "name": "Mankey",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/056.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 159,
+      "name": "Primeape",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/057.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 160,
+      "name": "Annihilape",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/979.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 161,
+      "name": "Meditite",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/307.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 162,
+      "name": "Medicham",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/308.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 163,
+      "name": "Riolu",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/447.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 164,
+      "name": "Lucario",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/448.png",
+      "ev": "1 Attack Point(s)1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 165,
+      "name": "Charcadet",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/935.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 166,
+      "name": "Armarouge",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/936.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 167,
+      "name": "Ceruledge",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/937.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 168,
+      "name": "Barboach",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/339.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 169,
+      "name": "Whiscash",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/340.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 170,
+      "name": "Tadbulb",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/938.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 171,
+      "name": "Bellibolt",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/939.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 172,
+      "name": "Goomy",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/704.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 173,
+      "name": "Sliggoo",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/705.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 174,
+      "name": "Goodra",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/706.png",
+      "ev": "3 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 175,
+      "name": "Croagunk",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/453.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 176,
+      "name": "Toxicroak",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/454.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 177,
+      "name": "Wattrel",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/940.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 178,
+      "name": "Kilowattrel",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/941.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 179,
+      "name": "Eevee",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/133.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 180,
+      "name": "Vaporeon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/134.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 181,
+      "name": "Jolteon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/135.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 182,
+      "name": "Flareon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/136.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 183,
+      "name": "Espeon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/196.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 184,
+      "name": "Umbreon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/197.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 185,
+      "name": "Leafeon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/470.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 186,
+      "name": "Glaceon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/471.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 187,
+      "name": "Sylveon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/700.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 188,
+      "name": "Dunsparce",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/206.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 189,
+      "name": "Dudunsparce",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/982.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 190,
+      "name": "Deerling",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/585.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 191,
+      "name": "Sawsbuck",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/586.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 192,
+      "name": "Girafarig",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/203.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 193,
+      "name": "Farigiraf",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/981.png",
+      "ev": "3 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 194,
+      "name": "Grimer",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/088.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 195,
+      "name": "Muk",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/089.png",
+      "ev": "1 HP Point(s)1 Attack Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 196,
+      "name": "Maschiff",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/942.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 197,
+      "name": "Mabosstiff",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/943.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 198,
+      "name": "Toxel",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/848.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 199,
+      "name": "Toxtricity",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/849.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 200,
+      "name": "Dedenne",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/702.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 201,
+      "name": "Pachirisu",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/417.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 202,
+      "name": "Shroodle",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/944.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 203,
+      "name": "Grafaiai",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/945.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 204,
+      "name": "Stantler",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/234.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 205,
+      "name": "Foongus",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/590.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 206,
+      "name": "Amoonguss",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/591.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 207,
+      "name": "Voltorb",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/100.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 208,
+      "name": "Electrode",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/101.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 209,
+      "name": "Magnemite",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/081.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 210,
+      "name": "Magneton",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/082.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 211,
+      "name": "Magnezone",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/462.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 212,
+      "name": "Ditto",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/132.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 213,
+      "name": "Growlithe",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/058.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 214,
+      "name": "Arcanine",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/059.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 215,
+      "name": "Teddiursa",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/216.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 216,
+      "name": "Ursaring",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/217.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 217,
+      "name": "Zangoose",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/335.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 218,
+      "name": "Seviper",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/336.png",
+      "ev": "1 Attack Point(s)1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 219,
+      "name": "Swablu",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/333.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 220,
+      "name": "Altaria",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/334.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 221,
+      "name": "Skiddo",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/672.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 222,
+      "name": "Gogoat",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/673.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 223,
+      "name": "Tauros",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/128-p.png",
+      "ev": "1 Attack Point(s)1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 224,
+      "name": "Litleo",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/667.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 225,
+      "name": "Pyroar",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/668.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 226,
+      "name": "Stunky",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/434.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 227,
+      "name": "Skuntank",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/435.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 228,
+      "name": "Zorua",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/570.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 229,
+      "name": "Zoroark",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/571.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 230,
+      "name": "Sneasel",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/215.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 231,
+      "name": "Weavile",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/461.png",
+      "ev": "1 Attack Point(s)1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 232,
+      "name": "Murkrow",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/198.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 233,
+      "name": "Honchkrow",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/430.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 234,
+      "name": "Gothita",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/574.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 235,
+      "name": "Gothorita",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/575.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 236,
+      "name": "Gothitelle",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/576.png",
+      "ev": "3 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 237,
+      "name": "Sinistea",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/854.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 238,
+      "name": "Polteageist",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/855.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 239,
+      "name": "Mimikyu",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/778.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 240,
+      "name": "Klefki",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/707.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 241,
+      "name": "Indeedee",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/876.png",
+      "ev": "Male2 Sp. Attack Point(s)Female2 Sp. Defense Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 242,
+      "name": "Bramblin",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/946.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 243,
+      "name": "Brambleghast",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/947.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 244,
+      "name": "Toedscool",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/948.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 245,
+      "name": "Toedscruel",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/949.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 246,
+      "name": "Tropius",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/357.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 247,
+      "name": "Fomantis",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/753.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 248,
+      "name": "Lurantis",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/754.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 249,
+      "name": "Klawf",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/950.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 250,
+      "name": "Capsakid",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/951.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 251,
+      "name": "Scovillain",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/952.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 252,
+      "name": "Cacnea",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/331.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 253,
+      "name": "Cacturne",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/332.png",
+      "ev": "1 Attack Point(s)1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 254,
+      "name": "Rellor",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/953.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 255,
+      "name": "Rabsca",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/954.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 256,
+      "name": "Venonat",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/048.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 257,
+      "name": "Venomoth",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/049.png",
+      "ev": "1 Speed Point(s)1 Sp. Attack Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 258,
+      "name": "Pineco",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/204.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 259,
+      "name": "Forretress",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/205.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 260,
+      "name": "Scyther",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/123.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 261,
+      "name": "Scizor",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/212.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 262,
+      "name": "Heracross",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/214.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 263,
+      "name": "Flittle",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/955.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 264,
+      "name": "Espathra",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/956.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 265,
+      "name": "Hippopotas",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/449.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 266,
+      "name": "Hippowdon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/450.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 267,
+      "name": "Sandile",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/551.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 268,
+      "name": "Krokorok",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/552.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 269,
+      "name": "Krookodile",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/553.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 270,
+      "name": "Silicobra",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/843.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 271,
+      "name": "Sandaconda",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/844.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 272,
+      "name": "Mudbray",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/749.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 273,
+      "name": "Mudsdale",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/750.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 274,
+      "name": "Larvesta",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/636.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 275,
+      "name": "Volcarona",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/637.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 276,
+      "name": "Bagon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/371.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 277,
+      "name": "Shelgon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/372.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 278,
+      "name": "Salamence",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/373.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 279,
+      "name": "Tinkatink",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/957.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 280,
+      "name": "Tinkatuff",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/958.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 281,
+      "name": "Tinkaton",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/959.png",
+      "ev": "3 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 282,
+      "name": "Hatenna",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/856.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 283,
+      "name": "Hattrem",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/857.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 284,
+      "name": "Hatterene",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/858.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 285,
+      "name": "Impidimp",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/859.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 286,
+      "name": "Morgrem",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/860.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 287,
+      "name": "Grimmsnarl",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/861.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 288,
+      "name": "Wiglett",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/960.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 289,
+      "name": "Wugtrio",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/961.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 290,
+      "name": "Bombirdier",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/962.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 291,
+      "name": "Finizen",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/963.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 292,
+      "name": "Palafin",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/964.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 293,
+      "name": "Varoom",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/965.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 294,
+      "name": "Revavroom",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/966.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 295,
+      "name": "Cyclizar",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/967.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 296,
+      "name": "Orthworm",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/968.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 297,
+      "name": "Sableye",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/302.png",
+      "ev": "1 Attack Point(s)1 Defense Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 298,
+      "name": "Shuppet",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/353.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 299,
+      "name": "Banette",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/354.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 300,
+      "name": "Falinks",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/870.png",
+      "ev": "2 Attack Point(s)1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 301,
+      "name": "Hawlucha",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/701.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 302,
+      "name": "Spiritomb",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/442.png",
+      "ev": "1 Defense Point(s)1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 303,
+      "name": "Noibat",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/714.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 304,
+      "name": "Noivern",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/715.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 305,
+      "name": "Dreepy",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/885.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 306,
+      "name": "Drakloak",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/886.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 307,
+      "name": "Dragapult",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/887.png",
+      "ev": "3 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 308,
+      "name": "Glimmet",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/969.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 309,
+      "name": "Glimmora",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/970.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 310,
+      "name": "Rotom",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/479.png",
+      "ev": "1 Speed Point(s)1 Sp. Attack Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 311,
+      "name": "Greavard",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/971.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 312,
+      "name": "Houndstone",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/972.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 313,
+      "name": "Oranguru",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/765.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 314,
+      "name": "Passimian",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/766.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 315,
+      "name": "Komala",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/775.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 316,
+      "name": "Larvitar",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/246.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 317,
+      "name": "Pupitar",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/247.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 318,
+      "name": "Tyranitar",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/248.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 319,
+      "name": "Stonjourner",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/874.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 320,
+      "name": "Eiscue",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/875.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 321,
+      "name": "Pincurchin",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/871.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 322,
+      "name": "Sandygast",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/769.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 323,
+      "name": "Palossand",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/770.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 324,
+      "name": "Slowpoke",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/079.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 325,
+      "name": "Slowbro",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/080.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 326,
+      "name": "Slowking",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/199.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 327,
+      "name": "Shellos",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/422.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 328,
+      "name": "Gastrodon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/423.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 329,
+      "name": "Shellder",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/090.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 330,
+      "name": "Cloyster",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/091.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 331,
+      "name": "Qwilfish",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/211.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 332,
+      "name": "Luvdisc",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/370.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 333,
+      "name": "Finneon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/456.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 334,
+      "name": "Lumineon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/457.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 335,
+      "name": "Bruxish",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/779.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 336,
+      "name": "Alomomola",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/594.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 337,
+      "name": "Skrelp",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/690.png",
+      "ev": "1 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 338,
+      "name": "Dragalge",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/691.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 339,
+      "name": "Clauncher",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/692.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 340,
+      "name": "Clawitzer",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/693.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 341,
+      "name": "Tynamo",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/602.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 342,
+      "name": "Eelektrik",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/603.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 343,
+      "name": "Eelektross",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/604.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 344,
+      "name": "Mareanie",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/747.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 345,
+      "name": "Toxapex",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/748.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 346,
+      "name": "Flamigo",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/973.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 347,
+      "name": "Dratini",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/147.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 348,
+      "name": "Dragonair",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/148.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 349,
+      "name": "Dragonite",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/149.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 350,
+      "name": "Snom",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/872.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 351,
+      "name": "Frosmoth",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/873.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 352,
+      "name": "Snover",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/459.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 353,
+      "name": "Abomasnow",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/460.png",
+      "ev": "1 Attack Point(s)1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 354,
+      "name": "Delibird",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/225.png",
+      "ev": "1 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 355,
+      "name": "Cubchoo",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/613.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 356,
+      "name": "Beartic",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/614.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 357,
+      "name": "Snorunt",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/361.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 358,
+      "name": "Glalie",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/362.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 359,
+      "name": "Froslass",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/478.png",
+      "ev": "2 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 360,
+      "name": "Cryogonal",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/615.png",
+      "ev": "2 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 361,
+      "name": "Cetoddle",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/974.png",
+      "ev": "1 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 362,
+      "name": "Cetitan",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/975.png",
+      "ev": "2 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 363,
+      "name": "Bergmite",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/712.png",
+      "ev": "1 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 364,
+      "name": "Avalugg",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/713.png",
+      "ev": "2 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 365,
+      "name": "Rufflet",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/627.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 366,
+      "name": "Braviary",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/628.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 367,
+      "name": "Pawniard",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/624.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 368,
+      "name": "Bisharp",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/625.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 369,
+      "name": "Kingambit",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/983.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 370,
+      "name": "Deino",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/633.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 371,
+      "name": "Zweilous",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/634.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 372,
+      "name": "Hydreigon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/635.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 373,
+      "name": "Veluza",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/976.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 374,
+      "name": "Dondozo",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/977.png",
+      "ev": "3 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 375,
+      "name": "Tatsugiri",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/978.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 376,
+      "name": "GreatTusk",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/984.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 377,
+      "name": "ScreamTail",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/985.png",
+      "ev": "3 HP Point(s)",
+      "evId": 1
+    },
+    {
+      "paldeaId": 378,
+      "name": "BruteBonnet",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/986.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 379,
+      "name": "FlutterMane",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/987.png",
+      "ev": "1 Speed Point(s) 1 Sp. Attack Point(s) 1 Sp. Defense Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 380,
+      "name": "SlitherWing",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/988.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 381,
+      "name": "SandyShocks",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/989.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 382,
+      "name": "IronTreads",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/990.png",
+      "ev": "3 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 383,
+      "name": "IronBundle",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/991.png",
+      "ev": "3 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 384,
+      "name": "IronHands",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/992.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 385,
+      "name": "IronJugulis",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/993.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 386,
+      "name": "IronMoth",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/994.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 387,
+      "name": "IronThorns",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/995.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 388,
+      "name": "Frigibax",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/996.png",
+      "ev": "1 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 389,
+      "name": "Arctibax",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/997.png",
+      "ev": "2 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 390,
+      "name": "Baxcalibur",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/998.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 391,
+      "name": "Gimmighoul",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/999.png",
+      "ev": "1 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 392,
+      "name": "Gholdengo",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/1000.png",
+      "ev": "2 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 393,
+      "name": "Wo-Chien",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/1001.png",
+      "ev": "3 Sp. Defense Point(s)",
+      "evId": 5
+    },
+    {
+      "paldeaId": 394,
+      "name": "Chien-Pao",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/1002.png",
+      "ev": "3 Speed Point(s)",
+      "evId": 6
+    },
+    {
+      "paldeaId": 395,
+      "name": "Ting-Lu",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/1003.png",
+      "ev": "3 Defense Point(s)",
+      "evId": 4
+    },
+    {
+      "paldeaId": 396,
+      "name": "Chi-Yu",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/1004.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    },
+    {
+      "paldeaId": 397,
+      "name": "RoaringMoon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/1005.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 398,
+      "name": "IronValiant",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/1006.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 399,
+      "name": "Koraidon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/1007.png",
+      "ev": "3 Attack Point(s)",
+      "evId": 3
+    },
+    {
+      "paldeaId": 400,
+      "name": "Miraidon",
+      "image": "https://www.serebii.net/scarletviolet/pokemon/new/1008.png",
+      "ev": "3 Sp. Attack Point(s)",
+      "evId": 2
+    }
+  ]
+}
