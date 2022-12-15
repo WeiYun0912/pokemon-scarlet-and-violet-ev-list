@@ -33,7 +33,7 @@ const PokemonEV = () => {
       if (query != "") {
         if (isNaN(query)) {
           setPokemonData(
-            pokemonData.filter((pokemon) =>
+            pokemonDataTrans.filter((pokemon) =>
               pokemon.name
                 .toLocaleLowerCase()
                 .includes(query.toLocaleLowerCase())
@@ -41,7 +41,7 @@ const PokemonEV = () => {
           );
         } else {
           setPokemonData(
-            pokemonData.filter((pokemon) => pokemon.paldeaId == query)
+            pokemonDataTrans.filter((pokemon) => pokemon.paldeaId == query)
           );
         }
       } else if (ev != 0) {

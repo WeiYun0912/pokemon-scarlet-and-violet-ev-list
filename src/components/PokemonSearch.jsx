@@ -13,6 +13,8 @@ export const PokemonSearch = ({ query, setQuery }) => {
         variant="filled"
         defaultValue={query}
         onChange={(e) => setQuery(e.target.value)}
+        // onCompositionStart={(e) => setQuery(e.target.value)}
+        // onInput={(e) => setQuery(e.target.value)}
       />
     </div>
   );
