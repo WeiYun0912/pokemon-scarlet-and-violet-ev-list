@@ -4,6 +4,7 @@ import EVFilter from "../components/EVFilter";
 import PokemonEVTable from "../components/PokemonEVTable";
 import { PokemonSearch } from "../components/PokemonSearch";
 import { useTranslation } from "react-i18next";
+
 /**
  * HP : 1,
  * Sp.Attack : 2
@@ -70,6 +71,7 @@ const PokemonEV = () => {
   return (
     <>
       <Box
+        className="filterSearch"
         sx={{
           display: "flex",
           justifyContent: "space-between",

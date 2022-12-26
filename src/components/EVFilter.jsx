@@ -33,7 +33,7 @@ const EVFilter = ({ setEV }) => {
     }
   };
   return (
-    <Box>
+    <Box className="filter">
       <FormControlLabel
         control={
           <Checkbox

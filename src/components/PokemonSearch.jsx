@@ -4,7 +4,7 @@ import { Trans } from "react-i18next";
 
 export const PokemonSearch = ({ query, setQuery }) => {
   return (
-    <div>
+    <div className="search">
       <TextField
         sx={{ width: "50ch" }}
         id="standard-search"

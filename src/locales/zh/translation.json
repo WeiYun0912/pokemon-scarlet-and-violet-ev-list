@@ -1,10 +1,10 @@
 {
   "content": {
     "Header": "寶可夢 朱/紫 努力值清單 (帕底亞地區)",
-    "TableHead1": "帕底亞圖鑑編號",
+    "TableHead1": "編號",
     "TableHead2": "寶可夢圖片",
     "TableHead3": "寶可夢名稱",
-    "TableHead4": "擊倒或捕捉後獲得的努力值",
+    "TableHead4": "努力值",
     "TableRowsPerPage": "一頁顯示的寶可夢數量:",
     "EV1": "HP",
     "EV2": "攻擊",
