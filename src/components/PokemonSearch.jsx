@@ -6,8 +6,7 @@ export const PokemonSearch = ({ query, setQuery }) => {
   return (
     <div className="search">
       <TextField
-        sx={{ width: "50ch" }}
-        id="standard-search"
+        id="searchBar"
         label={<Trans i18nKey="content.Input"></Trans>}
         type="search"
         variant="filled"
