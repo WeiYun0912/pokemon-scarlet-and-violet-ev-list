@@ -12,7 +12,11 @@ import { Trans } from "react-i18next";
 
 const PokemonEVTable = ({ pokemonData }) => {
   const columns = [
-    { id: "id", label: <Trans i18nKey="content.TableHead1"></Trans> },
+    {
+      id: "id",
+      label: <Trans i18nKey="content.TableHead1"></Trans>,
+      minWidth: 50,
+    },
     {
       id: "image",
       label: <Trans i18nKey="content.TableHead2"></Trans>,
