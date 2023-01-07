@@ -5,15 +5,6 @@ import PokemonEVTable from "../components/PokemonEVTable";
 import { PokemonSearch } from "../components/PokemonSearch";
 import { useTranslation } from "react-i18next";
 
-/**
- * HP : 1,
- * Sp.Attack : 2
- * Attack : 3,
- * Defense : 4,
- * Sp.Defense : 5,
- * Speed : 6
- */
-
 const PokemonEV = () => {
   const { t, ready } = useTranslation();
 
@@ -31,24 +22,47 @@ const PokemonEV = () => {
 
   useEffect(() => {
     const filteredPokemonBySearch = () => {
+      //搜尋欄不為空值的時候
       if (query != "") {
+        //搜尋欄要是不是輸入數字的話 (是寶可夢名字)
         if (isNaN(query)) {
-          setPokemonData(
-            pokemonDataTrans.filter((pokemon) =>
-              pokemon.name
-                .toLocaleLowerCase()
-                .includes(query.toLocaleLowerCase())
-            )
-          );
-        } else {
-          setPokemonData(
-            pokemonDataTrans.filter((pokemon) => pokemon.paldeaId == query)
-          );
+          //有選擇努力值 就用 tempPokemonData 去將寶可夢篩選出來 這樣才能用搜尋出來的記錄繼續篩選
+          if (ev != 0) {
+            setPokemonData(
+              tempPokemonData.filter((pokemon) =>
+                pokemon.name
+                  .toLocaleLowerCase()
+                  .includes(query.toLocaleLowerCase())
+              )
+            );
+          } //沒有選擇努力值
+          else {
+            setPokemonData(
+              pokemonDataTrans.filter((pokemon) =>
+                pokemon.name
+                  .toLocaleLowerCase()
+                  .includes(query.toLocaleLowerCase())
+              )
+            );
+          }
+        } //搜尋欄要是是輸入數字的話 (是圖鑑編號)
+        else {
+          if (ev != 0) {
+            setPokemonData(
+              tempPokemonData.filter((pokemon) => pokemon.paldeaId == query)
+            );
+          } else {
+            setPokemonData(
+              pokemonDataTrans.filter((pokemon) => pokemon.paldeaId == query)
+            );
+          }
         }
-      } else if (ev != 0) {
+      } //選擇努力值
+      else if (ev != 0) {
         setPokemonData(tempPokemonData);
-      } else {
-        setPokemonData(t("pokemons", { returnObjects: true }));
+      } //將搜尋欄清空時
+      else {
+        setPokemonData(pokemonDataTrans);
       }
     };
 
