@@ -11,6 +11,3 @@
 資料來源：https://www.serebii.net/scarletviolet/paldeapokedex.shtml
 
 巴哈：https://forum.gamer.com.tw/Co.php?bsn=01647&sn=584306
-
-# BUG
-搜尋欄目前有 BUG 正在修正
