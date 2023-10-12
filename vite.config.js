@@ -39,13 +39,13 @@ const manifestForPlugin = {
     theme_color: "#171717",
     background_color: "#e8ebf2",
     display: "standalone",
-    scope: "/",
-    start_url: "/",
+    scope: "/pokemon-scarlet-and-violet-ev-list/",
+    start_url: "/pokemon-scarlet-and-violet-ev-list/",
     orientation: "portrait",
   },
 };
 
 export default defineConfig({
-  base: "/",
+  base: "/pokemon-scarlet-and-violet-ev-list/",
   plugins: [react(), VitePWA(manifestForPlugin)],
 });
