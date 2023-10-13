@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) navigator.serviceWorker.register('/pokemon-scarlet-and-violet-ev-list/dev-sw.js?dev-sw', { scope: '/pokemon-scarlet-and-violet-ev-list/', type: 'classic' })
