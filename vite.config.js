@@ -12,25 +12,25 @@ const manifestForPlugin = {
     description: "Pokemon EV",
     icons: [
       {
-        src: "https://weiyun0912.github.io/pokemon-scarlet-and-violet-ev-list/eevee-512x512.png",
+        src: "/eevee-512x512.png",
         sizes: "192x192",
         type: "image/png",
         purpose: "monochrome",
       },
       {
-        src: "https://weiyun0912.github.io/pokemon-scarlet-and-violet-ev-list/eevee-512x512.png",
+        src: "/eevee-512x512.png",
         sizes: "512x512",
         type: "image/png",
         purpose: "any",
       },
       {
-        src: "https://weiyun0912.github.io/pokemon-scarlet-and-violet-ev-list/eevee-512x512.png",
+        src: "/eevee-512x512.png",
         sizes: "180x180",
         type: "image/png",
         purpose: "any",
       },
       {
-        src: "https://weiyun0912.github.io/pokemon-scarlet-and-violet-ev-list/eevee-512x512.png",
+        src: "/eevee-512x512.png",
         sizes: "225x225",
         type: "image/png",
         purpose: "maskable",
