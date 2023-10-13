@@ -9,7 +9,7 @@ const manifest = {
     enabled: true,
   },
   workbox: {
-    globPatterns: ["**/*"],
+    globPatterns: ["**/*.{js,jsx,css,html,pdf,json}"],
     runtimeCaching: [
       {
         urlPattern: ({ url }) => {
