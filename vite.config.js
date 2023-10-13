@@ -13,11 +13,11 @@ const manifest = {
     runtimeCaching: [
       {
         urlPattern: ({ url }) => {
-          return url.pathname.starsWith("/");
+          return url.pathname.startsWith("/");
         },
         handler: "CacheFirst",
         options: {
-          cacheName: "pokemon-cache",
+          cacheName: "cache",
           cacheableResponse: {
             statuses: [0, 200],
           },
