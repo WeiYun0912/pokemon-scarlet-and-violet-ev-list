@@ -17,7 +17,7 @@ const manifest = {
         },
         handler: "CacheFirst",
         options: {
-          cacheName: "cache",
+          cacheName: "pokemon-cache",
           cacheableResponse: {
             statuses: [0, 200],
           },
