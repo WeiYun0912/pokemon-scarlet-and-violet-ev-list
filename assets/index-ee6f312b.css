@@ -1,1 +1,0 @@
-*{margin:0;padding:0}.list{width:250px}.menu{cursor:pointer}.desktop{display:flex}.mobile{display:none}@media (max-width: 60rem){.desktop{display:none}.mobile{display:block}.filterSearch{flex-direction:column}.search{margin-top:20px}.filter{display:flex;justify-content:center;align-items:center;flex-wrap:wrap}}

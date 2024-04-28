@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/pokemon-scarlet-and-violet-ev-list/sw.js', { scope: '/pokemon-scarlet-and-violet-ev-list/' })})}
