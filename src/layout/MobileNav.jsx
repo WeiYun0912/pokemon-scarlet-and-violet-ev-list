@@ -2,7 +2,7 @@ import { List, ListItem, Drawer, Typography } from "@mui/material";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import Menu from "/menu.png";
-const MobileNav = () => {
+const MobileNav = ({ handleInstallClick, deferredPrompt }) => {
   const [open, setOpen] = useState(false);
 
   const { i18n, ready } = useTranslation();
@@ -23,6 +23,21 @@ const MobileNav = () => {
       onKeyDown={toggleDrawer(false)}
     >
       <List>
+        <ListItem>
+          <Typography
+            variant="h6"
+            color="inherit"
+            component="a"
+            onClick={handleInstallClick}
+            style={{
+              display: deferredPrompt ? "block" : "none",
+              cursor: "pointer",
+              textDecoration: "underline",
+            }}
+          >
+            Install App
+          </Typography>
+        </ListItem>
         <ListItem>
           <Typography
             variant="h6"

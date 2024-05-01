@@ -4,26 +4,8 @@ import { VitePWA } from "vite-plugin-pwa";
 
 const manifest = {
   registerType: "autoUpdate",
-  includeAssets: ["**/*"],
   devOptions: {
     enabled: true,
-  },
-  workbox: {
-    globPatterns: ["**/*.{js,jsx,css,html,pdf,json}"],
-    runtimeCaching: [
-      {
-        urlPattern: ({ url }) => {
-          return url.pathname.startsWith("/");
-        },
-        handler: "CacheFirst",
-        options: {
-          cacheName: "pokemon-cache",
-          cacheableResponse: {
-            statuses: [0, 200],
-          },
-        },
-      },
-    ],
   },
   manifest: {
     name: "Pokemon EV",

@@ -2,7 +2,7 @@ import { Typography } from "@mui/material";
 import { useTranslation } from "react-i18next";
 import React from "react";
 
-const DesktopNav = () => {
+const DesktopNav = ({ handleInstallClick, deferredPrompt }) => {
   const { i18n, ready } = useTranslation();
   if (!ready) return "loading...";
 
@@ -11,6 +11,20 @@ const DesktopNav = () => {
   };
   return (
     <div className="desktop">
+      <Typography
+        variant="h6"
+        color="inherit"
+        component="a"
+        onClick={handleInstallClick}
+        style={{
+          display: deferredPrompt ? "block" : "none",
+          cursor: "pointer",
+          textDecoration: "underline",
+        }}
+      >
+        Install App
+      </Typography>
+      <Typography variant="h6">&nbsp;/&nbsp;</Typography>
       <Typography
         variant="h6"
         color="inherit"
